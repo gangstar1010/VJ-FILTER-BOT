@@ -92,8 +92,8 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Shortlink Info
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ziplinker.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'edad27b3c1e52fa0b8ce835b2c7af9fe3ceba76b')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Modijiurl.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '5cea668b2db78a81b7f25fff01110735058d9918')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
